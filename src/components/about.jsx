@@ -13,8 +13,11 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I'm a certified IoT developer and experienced Solutions Architect, with formal training in software development and machine learning. Together with my team, we bring cybersecurity innovations to life on mobile, web, and IoT platforms.</p>
-                    <p>I support mid to large to very large sized businesses with their network and application security. Every day I am coding across multiple languages and platforms to ensure our customers are protected at every layer of the stack.</p>
+                    <p>Who am I? I am a dedicated cybersecurity professional, passionate about solving complex problems and safeguarding digital ecosystems. With a rich background in IP/vulnerability management, software development, solution architecture, and the deployment and proficient usage of software composition analysis tools, I offer a unique and comprehensive perspective to tackle today's cybersecurity challenges.</p>
+                    <p>At BlackBerry, I capitalized on my extensive knowledge in software development and machine learning to enhance the company's cybersecurity measures. My contributions were key in making BlackBerry the pioneering entity in North America to conform to the stringent standards of OpenChain/ISO5230:2020 and OpenChain Security Assurance 1.1.</p>
+                    <p>In my role as a Solutions Architect, I propelled cybersecurity innovations across mobile, web, and IoT platforms. I provided comprehensive technical solutions to a range of security challenges, protecting BlackBerry's partners and customers, which ranged from mid-sized businesses to large enterprises.</p>
+                    <p>With proficiency in Python, Java/Kotlin, JavaScript/TypeScript, C++, and SQL, I've contributed to BlackBerry's AI-driven cybersecurity portfolio. My expertise is displayed in my work on Web, Android, IoT, and Jupyter Notebooks, which can be explored in the projects and awards section of this site.</p>
+                    <p>Looking ahead, I am excited to tackle new challenges and advance the field of cybersecurity further. I welcome you to explore my projects and awards, or get in touch to discuss potential opportunities.</p>
                     </div>
                 </div>
                 </div>

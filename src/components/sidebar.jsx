@@ -27,16 +27,14 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.linkedin.com/in/jeffreyjeyachandren/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/JeffinWithYa" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://www.kaggle.com/superchocolatepain" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> and <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Dhruv Barochiya</a> for the template and inspiration. 
+                  <i className="icon-heart" aria-hidden="true" /> <i className="icon-coffee" aria-hidden="true"></i><br></br>
               </small></p>
               <p><small>
-                Hope you are all staying safe and healthy.
+                Here and Now
               </small></p>
             </div>
           </aside>
