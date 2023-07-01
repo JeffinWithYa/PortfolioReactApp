@@ -21,9 +21,33 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
+                        <h2>Certified Information Systems Security Professional (CISSP) <span>2023</span></h2>
+                        <p>The Certified Information Systems Security Professional (CISSP) is a globally recognized certification in the field of information security, emphasizing the mangement and governance of IT security. It validates a professional's ability to design, implement, and manage a best-in-class cybersecurity program,ensuring the protection of information assets in various industries.</p>
+                        <p><a className="btn btn-primary btn-learn" href="https://www.credly.com/badges/ab429978-e3db-4905-9bd4-d839a90f1174/public_url" target="_blank" rel="noopener noreferrer">View Credential <i className="icon-briefcase3" /></a></p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>AWS Certified Solutions Architect - Professional <span>2022</span></h2>
+                        <p>The AWS Certified Solutions Architect - Professional is a prestigious certification that validates advanced technical skills and experience in designing distributed applications and systems on the AWS platform. It attests to the ability of an IT professional to design and deploy dynamically scalable, reliable, and secure applications, making use of AWS technologies to optimize infrastructure, improve system performance, and control costs.</p>
+                        <p><a className="btn btn-primary btn-learn" href="https://www.credly.com/badges/17034ad9-a5cc-45f0-869c-8e66afadaf5d/linked_in_profile" target="_blank" rel="noopener noreferrer">View Credential <i className="icon-briefcase3" /></a></p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
                         <h2>AWS Machine Learning Engineer Scholarship Winner <span>2020</span></h2>
                         <p>This competition was an international opportunity to earn 4 months of advanced Machine Learning training from AWS and Udacity. Out of tens of thousands of applicants world-wide, based on my performance on a timed exam covering introductory ML topics, I was chosen as one of 300 recipients for this scholarship.The scholarship dove deep into techniques and algorithms for Machine Learning. All projects and coursework were built using AWS' Sagemaker machine learning platform. The scholarship provided hands-on experience (and best practices) for data preprocessing, model training, iteration, evaluation, and API deployment on Sagemaker. My capstone project was an independently driven assignment with strict requirements for data preprocessing, model accuracy, and deployment. I built a classifier that takes in viral meta-genomic data and predicts the virus' target host. The project is published on Kaggle (see project links above).</p>
-                        <p><a className="btn btn-primary btn-learn" href="https://confirm.udacity.com/KQ6UVEDZ" target="_blank" rel="noopener noreferrer">View Credential <i className="icon-briefcase3" /></a></p>
+                        <p><a className="btn btn-primary btn-learn" href="https://graduation.udacity.com/confirm/KQ6UVEDZ" target="_blank" rel="noopener noreferrer">View Credential <i className="icon-briefcase3" /></a></p>
                       </div>
                     </div>
                   </article>
