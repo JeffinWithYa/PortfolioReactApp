@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://jeffinwithya.github.io/PortfolioReactApp/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
@@ -12,7 +12,7 @@
     "yarn": "^1.13.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",

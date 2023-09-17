@@ -35,6 +35,19 @@ export default class About extends Component {
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
+                <div className="services color-4">
+                <span className="icon">
+                    <i className="icon-bulb" />
+                </span>
+                <div className="desc">
+                    <h3>Killer Compliance Helper </h3>
+                    <p>Killer Compliance Helper is an advanced tool designed to bridge the gap between developers and legal teams by demystifying open source licenses and providing clarity on intricate compliance standards such as NIST and ISO 27001. </p>
+                    <p><a className="btn btn-primary btn-learn" href="https://www.kaggle.com/superchocolatepain/predict-viral-host-based-on-meta-genomic-features" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
+
+                </div>
+                </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
                     <i className="icon-bulb" />
