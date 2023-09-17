@@ -1,4 +1,4 @@
-# My Portfolio Site
+# JJ's Portfolio Site
 
 Welcome to the repository for my personal portfolio site. This is where you can see the source code and understand the structure of the project. If you'd like to run the project on your own machine, follow the instructions below.
 
@@ -15,14 +15,14 @@ Follow these steps to run the project:
 
 1. **Clone the Repository**
     ```bash
-    git clone <REPO_URL>
+    git clone https://github.com/JeffinWithYa/PortfolioReactApp
     ```
 
     > Replace `<REPO_URL>` with the URL of this repository.
 
 2. **Navigate to the Project Directory**
     ```bash
-    cd portfolio-app
+    cd PortfolioReactApp
     ```
 
 3. **Install Required Node Modules**
