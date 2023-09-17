@@ -35,27 +35,14 @@ export default class About extends Component {
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-bulb" />
-                </span>
-                <div className="desc">
-                    <h3>Killer Compliance Helper </h3>
-                    <p>Killer Compliance Helper is an advanced tool designed to bridge the gap between developers and legal teams by demystifying open source licenses and providing clarity on intricate compliance standards such as NIST and ISO 27001. </p>
-                    <p><a className="btn btn-primary btn-learn" href="https://www.kaggle.com/superchocolatepain/predict-viral-host-based-on-meta-genomic-features" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
-
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Machine Learning using Genomic Data </h3>
-                    <p>I completed this project after receiving an AWS Machine Learning Scholarship. I apply SVMs to predict the viral host (what organism a virus infects) based on meta-genomic data from the viral genome. </p>
-                    <p><a className="btn btn-primary btn-learn" href="https://www.kaggle.com/superchocolatepain/predict-viral-host-based-on-meta-genomic-features" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
+                    <h3>Killer Compliance Helper </h3>
+                    <p>is an advanced tool designed to demystify open source licenses and providing clarity on intricate compliance standards such as NIST and ISO with respect to GRC (Governance, Risk Management, and Compliance). This tool aims to ensure that organizations can seamlessly adhere to best practices and regulations. </p>
+                    <p><a className="btn btn-primary btn-learn" href="https://github.com/JeffinWithYa/license-compliance-ai" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
 
                 </div>
                 </div>
@@ -92,9 +79,9 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Secured IoT Sensor Demo</h3>
-                    <p>This project demonstrates the use of BlackBerry Dynamics to securely manage an IoT device. It provides examples of features commonly used in an IoT application such as MQTT, HTTPS, and socket communication.</p>
-                    <p><a className="btn btn-primary btn-learn" href="https://github.com/blackberry/BlackBerry-Dynamics-Android-Samples/tree/master/AndroidThingsSensorDemo" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
+                <h3>Machine Learning using Genomic Data </h3>
+                    <p>I completed this project after receiving an AWS Machine Learning Scholarship. I apply SVMs to predict the viral host (what organism a virus infects) based on meta-genomic data from the viral genome. </p>
+                    <p><a className="btn btn-primary btn-learn" href="https://www.kaggle.com/superchocolatepain/predict-viral-host-based-on-meta-genomic-features" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
 
                 </div>
                 </div>
