@@ -41,6 +41,30 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Azure Database Administrator Associate <span>March 2021</span></h2>
+                        <p>This certification validates skills in managing and implementing Microsoft Azure database solutions, including monitoring, optimizing, and implementing backup and recovery strategies.</p>
+                        <p><a className="btn btn-primary btn-learn" href="https://www.credly.com/badges/7b315a08-d6ff-4d1e-9f7d-65022ea222ba/public_url" target="_blank" rel="noopener noreferrer">View Credential <i className="icon-briefcase3" /></a></p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Azure Data Analyst Associate (Power BI) <span>April 2021</span></h2>
+                        <p>This certification demonstrates expertise in using Microsoft Power BI to visualize data, deliver actionable insights, and enhance data-driven decision-making within organizations.</p>
+                        <p><a className="btn btn-primary btn-learn" href="https://www.credly.com/badges/38dd24d1-5233-4a23-aa8a-334d289bb8af/public_url" target="_blank" rel="noopener noreferrer">View Credential <i className="icon-briefcase3" /></a></p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
@@ -82,7 +106,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Runner-Up Loblaws/Microsoft Digital HackBytes Hackathon <span>2019</span></h2>
-                        <p>HackBytes is a hackathon jointly sponsored by Loblaws Digital and Microsoft. The goal was to build something that used computer vision in a retail environment. Our team took a 3-pronged, microservices-based approach to enhancing the capabilities of security cameras in a retail space. The project, titled ‘Sight for Store Eyes’ accomplished three things: 1. Real-time detection of blacklisted individuals with Azure computer vision, followed by an automatic alert to security teams at the store. 2. Real-time detection of a customer showing the peace sign to a camera, broadcasting an alert to customer service staff to let them know a customer in aisle ‘x’ needs help. 3. Analytics on the data collected from these AI driven alerts.</p> 
+                        <p>HackBytes is a hackathon jointly sponsored by Loblaws Digital and Microsoft. The goal was to build something that used computer vision in a retail environment. Our team took a 3-pronged, microservices-based approach to enhancing the capabilities of security cameras in a retail space. The project, titled ‘Sight for Store Eyes’ accomplished three things: 1. Real-time detection of blacklisted individuals with Azure computer vision, followed by an automatic alert to security teams at the store. 2. Real-time detection of a customer showing the peace sign to a camera, broadcasting an alert to customer service staff to let them know a customer in aisle ‘x’ needs help. 3. Analytics on the data collected from these AI driven alerts.</p>
                         <p><a className="btn btn-primary btn-learn" href="https://devblog.blackberry.com/en/2019/11/what-we-learned-from-using-azure-computer-vision-at-hackbytes" target="_blank" rel="noopener noreferrer">More Info <i className="icon-briefcase3" /></a></p>
 
                       </div>
@@ -95,7 +119,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>3rd Place - Microsoft DisruptAI Hackathon <span>2019</span></h2>
-                        <p>Over 2 days, we built an IoT enabled well-monitoring system that uses AI to perform analyses on the well, and BlackBerry AtHoc to broadcast emergency alerts when the well is flooding or contaminated. Our AI model was trained on sensor data from our device. Once the model was trained, we called a weather API to grab upcoming temp/pressure/humidity data and ran this through our model to predict the water level in the well, weeks or months in advance. Our IoT sensor was built to connect to Telus’ LTE-M network so that we could report data to Azure IoT hub from areas with traditionally poor connectivity (remote, rural, and underground). In the end, we built an enterprise-ready service that could be deployed for less than 200 dollars. In production, we simply need to ship the device to the well owner. These could be farmers, municipal governments, etc. The customer attaches the device to the outside of their well and then we go on Azure and click-click deploy.</p> 
+                        <p>Over 2 days, we built an IoT enabled well-monitoring system that uses AI to perform analyses on the well, and BlackBerry AtHoc to broadcast emergency alerts when the well is flooding or contaminated. Our AI model was trained on sensor data from our device. Once the model was trained, we called a weather API to grab upcoming temp/pressure/humidity data and ran this through our model to predict the water level in the well, weeks or months in advance. Our IoT sensor was built to connect to Telus’ LTE-M network so that we could report data to Azure IoT hub from areas with traditionally poor connectivity (remote, rural, and underground). In the end, we built an enterprise-ready service that could be deployed for less than 200 dollars. In production, we simply need to ship the device to the well owner. These could be farmers, municipal governments, etc. The customer attaches the device to the outside of their well and then we go on Azure and click-click deploy.</p>
                         <p><a className="btn btn-primary btn-learn" href="https://devblog.blackberry.com/en/2019/05/what-we-learned-from-winning-disruptai" target="_blank" rel="noopener noreferrer">More Info <i className="icon-briefcase3" /></a></p>
 
                       </div>
