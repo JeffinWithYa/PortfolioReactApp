@@ -41,6 +41,42 @@ export default class About extends Component {
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-1">
                                     <span className="icon">
+                                        <i className="icon-data" />
+                                    </span>
+                                    <div className="desc">
+                                        <h3>Threat Modeling App</h3>
+                                        <p>An innovative app that automates the generation of threat modeling reports, including data flow diagrams, attack trees, and compliance documents. Designed to simplify and streamline security assessments for software projects.</p>
+                                        <p><a className="btn btn-primary btn-learn" href="https://github.com/JeffinWithYa/threat-modeling-agents" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 text-center animate-box">
+                                <div className="services color-3">
+                                    <span className="icon">
+                                        <i className="icon-bulb" />
+                                    </span>
+                                    <div className="desc">
+                                        <h3>Malware Predictor</h3>
+                                        <p>A machine learning-based tool that predicts malware behavior by analyzing opcode sequences. Designed to classify Advanced Persistent Threat (APT) groups based on their unique patterns and signatures.</p>
+                                        <p><a className="btn btn-primary btn-learn" href="https://github.com/JeffinWithYa/apt_analysis_and_samples" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 text-center animate-box">
+                                <div className="services color-5">
+                                    <span className="icon">
+                                        <i className="icon-phone3" />
+                                    </span>
+                                    <div className="desc">
+                                        <h3>Privacy Policy Analyzer</h3>
+                                        <p>An AI-powered analyzer that uses LLMs to annotate privacy policies and evaluate them against regulatory benchmarks like the OPP-115 dataset. Built to enhance transparency and compliance in data privacy.</p>
+                                        <p><a className="btn btn-primary btn-learn" href="https://github.com/JeffinWithYa/policy-analyzer" target="_blank" rel="noopener noreferrer">View Project <i className="icon-briefcase3" /></a></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-md-4 text-center animate-box">
+                                <div className="services color-1">
+                                    <span className="icon">
                                         <i className="icon-bulb" />
                                     </span>
                                     <div className="desc">
@@ -155,45 +191,11 @@ export default class About extends Component {
                                     </div>
                                 </div>
                             </div>
-                            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
-                </div>
-                </div>
-            </div>
-            */}
+
                         </div>
                     </div>
-                </section>
-            </div>
+                </section >
+            </div >
         )
     }
 }
