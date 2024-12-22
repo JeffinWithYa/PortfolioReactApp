@@ -11,7 +11,7 @@ export default class Sidebar extends Component {
               <div className="author-img" style={{ backgroundImage: 'url(images/about.jpg)' }} />
               <h1 id="colorlib-logo"><a href="index.html">Jeffrey Jeyachandren</a></h1>
 
-              <span className="email">CISSP, Master's Cybersecurity (Expected Apr 2025)</span>
+              <span className="email">CISSP, Master's Cybersecurity (April 2025)</span>
               <p>    </p>
               <p>    </p>
             </div>
